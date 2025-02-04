@@ -13,13 +13,13 @@ function App() {
     </video>
     <div className='wrapper'>
       <header className={'header loaded'}>
-        <a href="https://www.dextools.io/app/en/solana/pair-explorer/" target='_blank' className='social-link'>
+        <a href="https://www.dextools.io/app/en/solana/pair-explorer/CH9B9m9ddfbxSvxRaYEB79zEKbz5eJAdkT8WswfrwgEV?t=1738668825481" target='_blank' className='social-link'>
           Dextools
         </a>
-        <a href="https://dexscreener.com/solana/" target='_blank' className='social-link'>
+        <a href="https://dexscreener.com/solana/a3bk2cN84ZfapR1vsnxa73phHVD3mi2rVBAgLTrRC6b" target='_blank' className='social-link'>
           Dexscreener
         </a>
-        <a href="https://raydium.io/swap/?inputMint=sol&outputMint=" target='_blank' className='social-link'>
+        <a href="https://raydium.io/swap/?inputMint=sol&outputMint=a3bk2cN84ZfapR1vsnxa73phHVD3mi2rVBAgLTrRC6b" target='_blank' className='social-link'>
           Raydium
         </a>
       </header>

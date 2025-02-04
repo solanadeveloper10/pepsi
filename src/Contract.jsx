@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const CONTRACT = "f38gkJzmJ7uiVmBwJ6Rw2FzxZJ66hbTZMzHz4donj9d"
+const CONTRACT = "a3bk2cN84ZfapR1vsnxa73phHVD3mi2rVBAgLTrRC6b"
 
 const Contract = () => {
   const [isCopied, setIsCopied] = useState(false);
