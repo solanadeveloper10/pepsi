@@ -1,0 +1,30 @@
+    @font-face {
+      font-family: 'Montreal Regular';
+      font-style: normal;
+      font-weight: normal;
+      src: local('Montreal Regular'), url('/fonts/Montreal-Regular.woff') format('woff');
+    }
+
+
+    @font-face {
+      font-family: 'Montreal Bold';
+      font-style: normal;
+      font-weight: normal;
+      src: local('Montreal Bold'), url('/fonts/Montreal-Bold.woff') format('woff');
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Montreal Bold', sans-serif;
+      color: #fff;
+    }
+
+    a {
+      text-decoration: none;
+      color: inherit
+    }
